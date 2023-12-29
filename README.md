@@ -5,7 +5,7 @@
 <br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.
 <br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!
 <br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
-<br> 📫 How to reach me: [himanshuu.bhatia21@vit.edu](javascript:void(location.href='mailto:himanshuu.bhatia21@vit.edu'))
+<br> 📫 How to reach me: [himanshuu.bhatia21@vit.edu](javascript:void(location.href='mailto:himanshuu.bhatia21@vit.edu')
 
 
 <br> [![An image of @himanshubhatia2910's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshubhatia2910)](https://holopin.io/@himanshubhatia2910)
