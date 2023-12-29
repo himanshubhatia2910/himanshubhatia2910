@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Bhatia</h1>
 <h3 align="center">A passionate developer.</h3>
-#💫 About Me:
-🚀 Journeying Through: Currently diving deep into the MERN Stack Ocean.
+#💫About Me:
+<br>🚀 Journeying Through: Currently diving deep into the MERN Stack Ocean.
 <br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.
 <br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!
 <br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
